@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Health/calc2</string>
+
+
+    <string name="BMI_title">BMI Calculator</string>
+    <string name="Alc_title">Alcohol Calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
